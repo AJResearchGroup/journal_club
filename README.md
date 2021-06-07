@@ -11,9 +11,14 @@ Our weekly journal club
 Date      |Person [1]      |Paper
 ----------|----------------|--------------------------------
 2021-06-17|[volunteer]     |.
-2021-06-24|[volunteer]     |.
-2021-07-01|[volunteer]     |.
-.         |.               |.
+2021-06-24|[volunteer/holiday]|.
+2021-07-01|[volunteer/holiday]|.
+2021-07-08|[volunteer/holiday]|.
+2021-07-15|[volunteer/holiday]|.
+2021-07-22|[volunteer/holiday]|.
+2021-07-29|[volunteer/holiday]|.
+2021-08-05|[volunteer/holiday]|.
+2021-08-12|[volunteer/holiday]|.
 2021-08-19|Mathias (1/1)   |.
 .         |Richel (1/1)    |.
 .         |Therese (1/1)   |.
