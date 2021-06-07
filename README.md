@@ -2,7 +2,7 @@
 
 Our weekly journal club
 
-  * When: every Thursday 9:00 to max 10:00 at [URL here]
+  * When: every Thursday 9:00 to max 10:00 at [?URL](https://github.com/AJResearchGroup/journal_club/issues/1)
 
 ## Future meetings
 
@@ -28,13 +28,27 @@ Date      |Person [1]      |Paper
 
  * [1] The numbers behind a person's name means how often he/she has presented
        out of the number of batches he/she was in
- * [2] Unsure if Åsa thinks Marcin should participate
+ * [2] [Unsure if Åsa thinks Marcin should present papers](https://github.com/AJResearchGroup/journal_club/issues/2)
 
 ## FAQ
 
 ### Is attending obligatory?
 
 Yes. 
+
+That means that every week you can look forward to meet:
+
+ * Åsa
+ * Daniel
+ * Fatemeh
+ * Hadrien
+ * Julia
+ * Marcin [Unsure if Åsa thinks Marcin should attend](https://github.com/AJResearchGroup/journal_club/issues/2)
+ * Mathias
+ * Richel
+ * Therese
+ * Torgny
+ * Weronica
 
 Of course, sometimes that are good reasons to be absent.
 In that case, send an email to Åsa.
@@ -44,6 +58,20 @@ In that case, send an email to Åsa.
 Yes.
 
 The schedule simply rotates over all people within our group.
+
+That means that every week you can look forward to presentations:
+
+ * Åsa
+ * Daniel
+ * Fatemeh
+ * Hadrien
+ * Julia
+ * Marcin [Unsure if Åsa thinks Marcin should attend](https://github.com/AJResearchGroup/journal_club/issues/2)
+ * Mathias
+ * Richel
+ * Therese
+ * Torgny
+ * Weronica
 
 ### I want to present a paper earlier, is that OK?
 
