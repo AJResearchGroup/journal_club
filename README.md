@@ -64,7 +64,7 @@ Yes, starting week 33, which is August 19th 2021.
 
 The schedule simply rotates over all people within our group.
 
-That means that every week you can look forward to presentations:
+That means that every week you can look forward to presentations from:
 
  * Åsa
  * Daniel
