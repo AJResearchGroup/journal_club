@@ -1,5 +1,7 @@
 # journal_club
 
+![https://minecraft.fandom.com/wiki/File:Bookshelf_JE4_BE2.png](Bookshelf_JE4_BE2.png)
+
 Our weekly journal club
 
   * When: every Thursday 9:00 to max 10:00 at [?URL](https://github.com/AJResearchGroup/journal_club/issues/1)
