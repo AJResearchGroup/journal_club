@@ -6,11 +6,29 @@ Our weekly journal club
 
 ## Future meetings
 
-Date      |Person|Paper
-----------|------|--------------------------------
-2021-06-17|.     |.
-2021-06-24|.     |.
-2021-07-01|.     |.
+Date      |Person [1]      |Paper
+----------|----------------|--------------------------------
+2021-06-17|.               |.
+2021-06-24|.               |.
+2021-07-01|.               |.
+.         |.               |.
+.         |Mathias (1/1)   |.
+.         |Richel (1/1)    |.
+.         |Therese (1/1)   |.
+.         |Torgny (1/1)    |.
+.         |Weronica (1/1)  |.
+.         |Åsa (1/1)       |.
+.         |Daniel (1/1)    |.
+.         |Fatemeh (1/1)   |.
+.         |Hadrien (1)/1   |.
+.         |Julia (1/1)     |.
+.         |Marcin [2] (1/1)|.
+.         |.               |.
+
+
+ * [1] The numbers behind a person's name means how often he/she has presented
+       out of the number of batches he/she was in
+ * [2] Unsure if Åsa thinks Marcin should participate
 
 ## FAQ
 
@@ -23,9 +41,19 @@ In that case, send an email to Åsa.
 
 ### Is presenting a paper obligatory?
 
-No. 
+Yes.
 
-Note that it is obligatory for PhDs to present papers [?once per year].
+The schedule simply rotates over all people within our group.
+
+### I want to present a paper earlier, is that OK?
+
+Definitely! Share this with Richel and he will move you to your
+preferred spot in the schedule.
+
+### I want to present a paper at another time, is that OK?
+
+Definitely! Ideally, find someone to swap with and let Richel know.
+Else, let Richel know.
 
 ### How much time am I expected to spend reading the paper?
 
@@ -38,4 +66,10 @@ This ensures we can have a proper discussion about the paper.
 A paper should be relevant to at least 1 other group member.
 
 If you are unsure, you can ask Åsa.
+
+### How do I let Richel know?
+
+ * Create a Pull Request
+ * Create an Issue
+ * Email
 
