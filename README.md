@@ -24,13 +24,11 @@ Date      |Person [1]      |Paper
 .         |Fatemeh (1/1)   |.
 .         |Hadrien (1)/1   |.
 .         |Julia (1/1)     |.
-.         |Marcin [2] (1/1)|.
 .         |.               |.
 
 
  * [1] The numbers behind a person's name means how often he/she has presented
        out of the number of batches he/she was in
- * [2] [Unsure if Åsa thinks Marcin should present papers](https://github.com/AJResearchGroup/journal_club/issues/2)
 
 ## FAQ
 
@@ -45,12 +43,13 @@ That means that every week you can look forward to meet:
  * Fatemeh
  * Hadrien
  * Julia
- * Marcin [Unsure if Åsa thinks Marcin should attend](https://github.com/AJResearchGroup/journal_club/issues/2)
  * Mathias
  * Richel
  * Therese
  * Torgny
  * Weronica
+
+Others are welcome to join as well :-)
 
 Of course, sometimes that are good reasons to be absent.
 In that case, send an email to Åsa.
@@ -68,7 +67,6 @@ That means that every week you can look forward to presentations:
  * Fatemeh
  * Hadrien
  * Julia
- * Marcin [Unsure if Åsa thinks Marcin should attend](https://github.com/AJResearchGroup/journal_club/issues/2)
  * Mathias
  * Richel
  * Therese
