@@ -10,11 +10,11 @@ Our weekly journal club
 
 Date      |Person [1]      |Paper
 ----------|----------------|--------------------------------
-2021-06-17|.               |.
-2021-06-24|.               |.
-2021-07-01|.               |.
+2021-06-17|[volunteer]     |.
+2021-06-24|[volunteer]     |.
+2021-07-01|[volunteer]     |.
 .         |.               |.
-.         |Mathias (1/1)   |.
+2021-08-19|Mathias (1/1)   |.
 .         |Richel (1/1)    |.
 .         |Therese (1/1)   |.
 .         |Torgny (1/1)    |.
@@ -25,7 +25,6 @@ Date      |Person [1]      |Paper
 .         |Hadrien (1)/1   |.
 .         |Julia (1/1)     |.
 .         |.               |.
-
 
  * [1] The numbers behind a person's name means how often he/she has presented
        out of the number of batches he/she was in
@@ -56,7 +55,7 @@ In that case, send an email to Åsa.
 
 ### Is presenting a paper obligatory?
 
-Yes.
+Yes, starting week 33, which is August 19th 2021.
 
 The schedule simply rotates over all people within our group.
 
