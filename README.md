@@ -78,6 +78,13 @@ That means that every week you can look forward to presentations from:
  * Torgny
  * Weronica
 
+### As a presenter, how do I structure the time between presentation and discussion?
+
+You, as a presenter, are boss here.
+
+A goal of the journal club is to read more papers and discuss these,
+so at least 1 minute of discussion is the bare minimum :-)
+
 ### I want to present a paper earlier, is that OK?
 
 Definitely! Share this with Richel and he will move you to your
