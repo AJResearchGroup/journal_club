@@ -9,9 +9,9 @@ Our weekly journal club
 ## Future meetings
 
 Date      |Person [1]      |Paper
-----------|----------------|----------------------------------------------------------------------------------------------------------
+----------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 2021-06-17|Hadrien (1/0)   |[LDpred2: better, faster, stronger](https://academic.oup.com/bioinformatics/article/36/22-23/5424/6039173)
-2021-06-24|[volunteer/?holiday]|.
+2021-06-24|?Richel (1/0)   |[Actionable recommendations for narrowing the science-practice gap in open science](https://www.sciencedirect.com/science/article/pii/S074959781930740X)
 2021-07-01|[volunteer/?holiday]|.
 2021-07-08|[volunteer/?holiday]|.
 2021-07-15|[volunteer/?holiday]|.
@@ -32,8 +32,10 @@ Date      |Person [1]      |Paper
 .         |Julia (1/1)     |.
 .         |.               |.
 
+
  * [1] The numbers behind a person's name means how often he/she has presented
        out of the number of batches he/she was in
+ * ?: unsure about date
 
 ## FAQ
 
