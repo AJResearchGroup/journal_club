@@ -9,8 +9,8 @@ Our weekly journal club
 ## Future meetings
 
 Date      |Person [1]      |Paper
-----------|----------------|--------------------------------
-2021-06-17|[volunteer]     |.
+----------|----------------|----------------------------------------------------------------------------------------------------------
+2021-06-17|Hadrien (1/0)   |[LDpred2: better, faster, stronger](https://academic.oup.com/bioinformatics/article/36/22-23/5424/6039173)
 2021-06-24|[volunteer/?holiday]|.
 2021-07-01|[volunteer/?holiday]|.
 2021-07-08|[volunteer/?holiday]|.
@@ -19,6 +19,7 @@ Date      |Person [1]      |Paper
 2021-07-29|[volunteer/?holiday]|.
 2021-08-05|[volunteer/?holiday]|.
 2021-08-12|[volunteer/?holiday]|.
+2021-08-18|[Up the batches]|.
 2021-08-19|Mathias (1/1)   |.
 .         |Richel (1/1)    |.
 .         |Therese (1/1)   |.
