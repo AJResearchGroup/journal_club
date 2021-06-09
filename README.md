@@ -11,7 +11,7 @@ Our weekly journal club
 Date      |Person [1]      |Paper
 ----------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 2021-06-17|Hadrien (1/0)   |[LDpred2: better, faster, stronger](https://academic.oup.com/bioinformatics/article/36/22-23/5424/6039173)
-2021-06-24|?Richel (1/0)   |[Actionable recommendations for narrowing the science-practice gap in open science](https://www.sciencedirect.com/science/article/pii/S074959781930740X)
+2021-06-24|?Richel (1/0)   |[Actionable recommendations for narrowing the science-practice gap in open science](https://www.sciencedirect.com/science/article/pii/S074959781930740X) or [Has GWAS lost its status as a paragon of open science?](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001242)
 2021-07-01|[volunteer/?holiday]|.
 2021-07-08|[volunteer/?holiday]|.
 2021-07-15|[volunteer/?holiday]|.
