@@ -11,7 +11,7 @@ Our weekly journal club
 Date      |Person [1]      |Paper
 ----------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 2021-06-17|Hadrien (1/0)   |[LDpred2: better, faster, stronger](https://academic.oup.com/bioinformatics/article/36/22-23/5424/6039173)
-2021-06-24|[volunteer/?holiday]|.
+2021-06-24|Åsa (1/0)       |Will be shared on Monday 21st
 2021-07-01|[volunteer/?holiday]|.
 2021-07-08|[volunteer/?holiday]|.
 2021-07-15|[volunteer/?holiday]|.
