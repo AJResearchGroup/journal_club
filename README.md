@@ -6,6 +6,7 @@ Our weekly journal club
 
   * When: every Thursday 9:00 to max 10:00 at [?URL](https://github.com/AJResearchGroup/journal_club/issues/1)
 
+
 ## Future meetings
 
 Date      |Person [1]      |Paper
@@ -37,6 +38,15 @@ Date      |Person [1]      |Paper
  * [1] The numbers behind a person's name means how often he/she has presented
        out of the number of batches he/she was in
  * ?: unsure about date
+
+## Timetable
+
+When |What
+-----|--------------------------------------------------------------------------
+9:00 |Introduce speaker, ask questions during talk yes/no, shout or raise hand?
+9:55 |Last question
+9:57 |Volunteer for next meeting? 
+9:59 |Close meeting
 
 ## FAQ
 
