@@ -4,15 +4,16 @@
 
 Our weekly journal club
 
-  * When: every Thursday 9:00 to max 10:00 at [?URL](https://github.com/AJResearchGroup/journal_club/issues/1)
-
+ * When: every Thursday 9:00 to max 10:00 at the Digitölfika Zoom room:
+   * URL: https://uu-se.zoom.us/j/7093465705
+   * Passcode: beer (the Dutch word for a bear)
 
 ## Future meetings
 
 Date      |Person [1]      |Paper
 ----------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 2021-06-17|Hadrien (1/0)   |[LDpred2: better, faster, stronger](https://academic.oup.com/bioinformatics/article/36/22-23/5424/6039173)
-2021-06-24|Åsa (1/0)       |Will be shared on Monday 21st
+2021-06-24|Åsa (1/0)       |[Day, Felix R., et al. "A robust example of collider bias in a genetic association study." The American Journal of Human Genetics 98.2 (2016): 392-393](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4746366/)
 2021-07-01|[volunteer/?holiday]|.
 2021-07-08|[volunteer/?holiday]|.
 2021-07-15|[volunteer/?holiday]|.
