@@ -127,3 +127,11 @@ If you are unsure, you can ask Åsa.
  * Create an Issue
  * Email
 
+### What do you always paste in the chat room at the start of a meeting?
+
+```
+9:00 Introduce speaker, ask questions during talk yes/no, shout or raise hand?
+9:55 No more questions.
+9:57 Volunteer for next meeting?
+9:59 Close meeting.
+```
