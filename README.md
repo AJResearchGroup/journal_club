@@ -14,9 +14,9 @@ Date      |Person [1]      |Paper
 ----------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 2021-06-17|Hadrien (1/0)   |[LDpred2: better, faster, stronger](https://academic.oup.com/bioinformatics/article/36/22-23/5424/6039173)
 2021-06-24|Åsa (1/0)       |[Day, Felix R., et al. "A robust example of collider bias in a genetic association study." The American Journal of Human Genetics 98.2 (2016): 392-393](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4746366/)
-2021-07-01|[volunteer/?holiday]|.
+2021-07-01|None            |.
 2021-07-08|[volunteer/?holiday]|.
-2021-07-15|[volunteer/?holiday]|.
+2021-07-15|?Richel         |A deep learning framework for characterization ofgenotype data
 2021-07-22|[volunteer/?holiday]|.
 2021-07-29|[volunteer/?holiday]|.
 2021-08-05|[volunteer/?holiday]|.
