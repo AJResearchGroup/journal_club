@@ -22,10 +22,10 @@ Date      |Person [1]      |Paper
 2021-08-05|[volunteer/?holiday]|.
 2021-08-12|[volunteer/?holiday]|.
 2021-08-18|[Up the batches]|.
-2021-08-19|Mathias (1/1)   |.
+2021-08-19|Torgny (1/1)    |Investigating the genetic architecture of noncognitive skills using GWAS-by-subtraction
 .         |Richel (1/1)    |.
 .         |Therese (1/1)   |.
-.         |Torgny (1/1)    |.
+.         |Mathias (1/1)   |.
 .         |Weronica (1/1)  |.
 .         |Åsa (1/1)       |.
 .         |Daniel (1/1)    |.
