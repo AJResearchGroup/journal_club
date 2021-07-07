@@ -15,13 +15,12 @@ Date      |Person [1]      |Paper
 2021-06-17|Hadrien (1/0)   |[LDpred2: better, faster, stronger](https://academic.oup.com/bioinformatics/article/36/22-23/5424/6039173)
 2021-06-24|Åsa (1/0)       |[Day, Felix R., et al. "A robust example of collider bias in a genetic association study." The American Journal of Human Genetics 98.2 (2016): 392-393](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4746366/)
 2021-07-01|None            |.
-2021-07-08|[volunteer/?holiday]|.
-2021-07-15|?Richel         |A deep learning framework for characterization ofgenotype data
+2021-07-08|Åsa (2/0)       |[Precision medicine in 2030—seven ways to transform healthcare](https://doi.org/10.1016/j.cell.2021.01.015)
 2021-07-22|[volunteer/?holiday]|.
 2021-07-29|[volunteer/?holiday]|.
 2021-08-05|[volunteer/?holiday]|.
 2021-08-12|[volunteer/?holiday]|.
-2021-08-18|[Up the batches]|.
+2021-08-18|[Admin day]|.
 2021-08-19|Torgny (1/1)    |Investigating the genetic architecture of noncognitive skills using GWAS-by-subtraction
 .         |Richel (1/1)    |.
 .         |Therese (1/1)   |.
@@ -34,6 +33,7 @@ Date      |Person [1]      |Paper
 .         |Julia (1/1)     |.
 .         |.               |.
 202?-??-??|?Richel (1/0)   |[Actionable recommendations for narrowing the science-practice gap in open science](https://www.sciencedirect.com/science/article/pii/S074959781930740X) or [Has GWAS lost its status as a paragon of open science?](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001242)
+202?-??-??|?Richel         |A deep learning framework for characterization ofgenotype data
 
 
  * [1] The numbers behind a person's name means how often he/she has presented
