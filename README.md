@@ -12,9 +12,6 @@ Our weekly journal club
 
 Date      |Person [1]      |Paper
 ----------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
-2021-06-17|Hadrien (1/0)   |[LDpred2: better, faster, stronger](https://academic.oup.com/bioinformatics/article/36/22-23/5424/6039173)
-2021-06-24|Åsa (1/0)       |[Day, Felix R., et al. "A robust example of collider bias in a genetic association study." The American Journal of Human Genetics 98.2 (2016): 392-393](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4746366/)
-2021-07-01|None            |.
 2021-07-08|Åsa (2/0)       |[Precision medicine in 2030—seven ways to transform healthcare](https://doi.org/10.1016/j.cell.2021.01.015)
 2021-07-22|[volunteer/?holiday]|.
 2021-07-29|[volunteer/?holiday]|.
@@ -135,3 +132,13 @@ If you are unsure, you can ask Åsa.
 9:57 Volunteer for next meeting?
 9:59 Close meeting.
 ```
+
+
+## Past meetings
+
+Date      |Person [1]      |Paper
+----------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-06-17|Hadrien (1/0)   |[LDpred2: better, faster, stronger](https://academic.oup.com/bioinformatics/article/36/22-23/5424/6039173)
+2021-06-24|Åsa (1/0)       |[Day, Felix R., et al. "A robust example of collider bias in a genetic association study." The American Journal of Human Genetics 98.2 (2016): 392-393](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4746366/)
+2021-07-01|None            |.
+
