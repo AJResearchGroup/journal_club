@@ -31,6 +31,8 @@ Date      |Person [1]      |Paper
 .         |.               |.
 202?-??-??|?Richel (1/0)   |[Actionable recommendations for narrowing the science-practice gap in open science](https://www.sciencedirect.com/science/article/pii/S074959781930740X) or [Has GWAS lost its status as a paragon of open science?](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001242)
 202?-??-??|?Richel         |A deep learning framework for characterization ofgenotype data
+202?-??-??|?Richel         |A deep learning framework for characterization ofgenotype data
+202?-??-??|?Richel         |[“I know it's bad but I have been pressured into it”: Questionable research practices among psychology students in Canada](https://psyarxiv.com/kjby3/)
 
 
  * [1] The numbers behind a person's name means how often he/she has presented
