@@ -24,6 +24,7 @@ Date      |Person [1]      |Paper
 2021-09-09|Fatemeh (1/1)   |.
 2021-09-16|Hadrien (1)/1   |.
 2021-09-23|Julia (1/1)     |.
+2021-09-30|Valeria (1/1)   |.
 
  * [1] The numbers behind a person's name means how often he/she has presented
        out of the number of batches he/she was in. For example, (31/4) means
@@ -34,16 +35,17 @@ Date      |Person [1]      |Paper
 
 Date      |Person [1]      |Paper
 ----------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
-2021-09-30|Mathias         |.
-2021-10-07|Richel          |.
-2021-10-14|Therese         |.
-2021-10-21|Torgny          |.
-2021-10-28|Weronica        |.
-2021-11-04|Åsa             |.
-2021-11-11|Daniel          |.
-2021-11-18|Fatemeh         |.
-2021-11-25|Hadrien         |.
-2021-12-02|Julia           |.
+2021-10-07|Mathias          |.
+2021-10-14|Richel         |.
+2021-10-21|Therese          |.
+2021-10-28|Torgny        |.
+2021-11-04|Weronica             |.
+2021-11-11|Åsa          |.
+2021-11-18|Daniel         |.
+2021-11-25|Fatemeh         |.
+2021-12-02|Hadrien           |.
+2021-12-09|Julia         |.
+2021-12-16|Valeria         |.
 
 ## Timetable
 
@@ -71,6 +73,7 @@ That means that every week you can look forward to meet:
  * Richel
  * Therese
  * Torgny
+ * Valeria
  * Weronica
 
 Others are welcome to join as well :-)
@@ -86,16 +89,19 @@ The schedule simply rotates over all people within our group.
 
 That means that every week you can look forward to presentations from:
 
- * Åsa
- * Daniel
- * Fatemeh
- * Hadrien
- * Julia
  * Mathias
  * Richel
  * Therese
  * Torgny
  * Weronica
+ * Åsa
+ * Daniel
+ * Fatemeh
+ * Hadrien
+ * Julia
+ * Valeria
+
+This order has evolved from a nice alphabetical one, to its present state :-)
 
 ### As a presenter, how do I structure the time between presentation and discussion?
 
