@@ -13,25 +13,24 @@ Our weekly journal club
 Date      |Person [1]      |Paper
 ----------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 2021-07-08|Åsa (2/0)       |[Precision medicine in 2030—seven ways to transform healthcare](https://doi.org/10.1016/j.cell.2021.01.015)
-2021-07-22|[volunteer/?holiday]|.
-2021-07-29|[volunteer/?holiday]|.
-2021-08-05|[volunteer/?holiday]|.
-2021-08-12|[volunteer/?holiday]|.
-2021-08-18|[Admin day]|.
-2021-08-19|Torgny (1/1)    |Investigating the genetic architecture of noncognitive skills using GWAS-by-subtraction
+2021-07-22|holiday         |.
+2021-07-29|holiday         |.
+2021-08-05|holiday         |.
+2021-08-12|holiday         |.
+2021-08-19|Holiday         |.
+2021-08-26|Torgny (1/1)    |Investigating the genetic architecture of noncognitive skills using GWAS-by-subtraction
 .         |Richel (1/1)    |.
 .         |Therese (1/1)   |.
 .         |Mathias (1/1)   |.
 .         |Weronica (1/1)  |.
-.         |Åsa (1/1)       |.
+.         |Åsa (3/1)       |.
 .         |Daniel (1/1)    |.
 .         |Fatemeh (1/1)   |.
 .         |Hadrien (1)/1   |.
 .         |Julia (1/1)     |.
 .         |.               |.
 202?-??-??|?Richel (1/0)   |[Actionable recommendations for narrowing the science-practice gap in open science](https://www.sciencedirect.com/science/article/pii/S074959781930740X) or [Has GWAS lost its status as a paragon of open science?](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001242)
-202?-??-??|?Richel         |A deep learning framework for characterization ofgenotype data
-202?-??-??|?Richel         |A deep learning framework for characterization ofgenotype data
+202?-??-??|?Richel         |A deep learning framework for characterization of genotype data
 202?-??-??|?Richel         |[“I know it's bad but I have been pressured into it”: Questionable research practices among psychology students in Canada](https://psyarxiv.com/kjby3/)
 
 
