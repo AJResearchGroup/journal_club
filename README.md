@@ -10,33 +10,40 @@ Our weekly journal club
 
 ## Future meetings
 
+### Batch 1
+
 Date      |Person [1]      |Paper
 ----------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
-2021-07-08|Åsa (2/0)       |[Precision medicine in 2030—seven ways to transform healthcare](https://doi.org/10.1016/j.cell.2021.01.015)
-2021-07-22|holiday         |.
-2021-07-29|holiday         |.
-2021-08-05|holiday         |.
-2021-08-12|holiday         |.
-2021-08-19|Holiday         |.
-2021-08-26|Torgny (1/1)    |Investigating the genetic architecture of noncognitive skills using GWAS-by-subtraction
-.         |Richel (1/1)    |.
-.         |Therese (1/1)   |.
-.         |Mathias (1/1)   |.
-.         |Weronica (1/1)  |.
-.         |Åsa (3/1)       |.
-.         |Daniel (1/1)    |.
-.         |Fatemeh (1/1)   |.
-.         |Hadrien (1)/1   |.
-.         |Julia (1/1)     |.
-.         |.               |.
-202?-??-??|?Richel (1/0)   |[Actionable recommendations for narrowing the science-practice gap in open science](https://www.sciencedirect.com/science/article/pii/S074959781930740X) or [Has GWAS lost its status as a paragon of open science?](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001242)
-202?-??-??|?Richel         |A deep learning framework for characterization of genotype data
-202?-??-??|?Richel         |[“I know it's bad but I have been pressured into it”: Questionable research practices among psychology students in Canada](https://psyarxiv.com/kjby3/)
-
+2021-08-26|Torgny (1/1)    |[Investigating the genetic architecture of noncognitive skills using GWAS-by-subtraction](https://www.nature.com/articles/s41588-020-00754-2)
+2021-09-02|Richel (1/1)    |[Has GWAS lost its status as a paragon of open science?](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001242) and [presentation](https://github.com/richelbilderbeek/journal_club_20210902)
+2021-09-09|Therese (1/1)   |.
+2021-09-16|Mathias (1/1)   |.
+2021-09-23|Weronica (1/1)  |.
+2021-09-30|Åsa (3/1)       |.
+2021-09-02|Daniel (2/1)    |.
+2021-09-09|Fatemeh (1/1)   |.
+2021-09-16|Hadrien (1)/1   |.
+2021-09-23|Julia (1/1)     |.
 
  * [1] The numbers behind a person's name means how often he/she has presented
-       out of the number of batches he/she was in
- * ?: unsure about date
+       out of the number of batches he/she was in. For example, (31/4) means
+       that after that meeting, that person has presented 31 JCs, while having
+       been the fourth batch
+
+### Batch 2
+
+Date      |Person [1]      |Paper
+----------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
+2021-09-30|Mathias         |.
+2021-10-07|Richel          |.
+2021-10-14|Therese         |.
+2021-10-21|Torgny          |.
+2021-10-28|Weronica        |.
+2021-11-04|Åsa             |.
+2021-11-11|Daniel          |.
+2021-11-18|Fatemeh         |.
+2021-11-25|Hadrien         |.
+2021-12-02|Julia           |.
 
 ## Timetable
 
@@ -130,10 +137,17 @@ If you are unsure, you can ask Åsa.
 ```
 9:00 Introduce speaker, ask questions during talk yes/no, shout or raise hand?
 9:55 No more questions.
-9:57 Volunteer for next meeting?
+9:58 Announce next week's speaker
 9:59 Close meeting.
 ```
 
+## Possible future meetings
+
+Date      |Person [1]      |Paper
+----------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
+202?-??-??|?Richel         |[Actionable recommendations for narrowing the science-practice gap in open science](https://www.sciencedirect.com/science/article/pii/S074959781930740X)
+202?-??-??|?Richel         |A deep learning framework for characterization of genotype data
+202?-??-??|?Richel         |[“I know it's bad but I have been pressured into it”: Questionable research practices among psychology students in Canada](https://psyarxiv.com/kjby3/)
 
 ## Past meetings
 
@@ -142,4 +156,10 @@ Date      |Person [1]      |Paper
 2021-06-17|Hadrien (1/0)   |[LDpred2: better, faster, stronger](https://academic.oup.com/bioinformatics/article/36/22-23/5424/6039173)
 2021-06-24|Åsa (1/0)       |[Day, Felix R., et al. "A robust example of collider bias in a genetic association study." The American Journal of Human Genetics 98.2 (2016): 392-393](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4746366/)
 2021-07-01|None            |.
+2021-07-08|Åsa (2/0)       |[Precision medicine in 2030—seven ways to transform healthcare](https://doi.org/10.1016/j.cell.2021.01.015)
+2021-07-22|holiday         |.
+2021-07-29|holiday         |.
+2021-08-05|holiday         |.
+2021-08-12|holiday         |.
+2021-08-19|Holiday         |.
 
