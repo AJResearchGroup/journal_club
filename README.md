@@ -16,9 +16,9 @@ Date      |Person [1]      |Paper
 ----------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 2021-08-26|Torgny (1/1)    |[Investigating the genetic architecture of noncognitive skills using GWAS-by-subtraction](https://www.nature.com/articles/s41588-020-00754-2)
 2021-09-02|Richel (1/1)    |[Has GWAS lost its status as a paragon of open science?](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001242) and [presentation](https://github.com/richelbilderbeek/journal_club_20210902)
-2021-09-09|Therese (1/1)   |.
-2021-09-16|Mathias (1/1)   |.
-2021-09-23|Weronica (1/1)  |.
+2021-09-09|Therese (1/1)   |[Unknown, sent email]
+2021-09-16|Mathias (1/1)   |[Unknown, sent email]
+2021-09-23|Weronica (1/1)  |[Unknown, sent email]
 2021-09-30|Åsa (3/1)       |.
 2021-09-02|Daniel (2/1)    |.
 2021-09-09|Fatemeh (1/1)   |.
