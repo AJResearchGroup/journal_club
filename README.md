@@ -90,7 +90,7 @@ That means that every week you can look forward to presentations from:
 
  * Mathias
  * Richel
- * Therese
+ * Valeria
  * Torgny
  * Weronica
  * Åsa
@@ -98,7 +98,7 @@ That means that every week you can look forward to presentations from:
  * Fatemeh
  * Hadrien
  * Julia
- * Valeria
+ * Therese
 
 This order has evolved from a nice alphabetical one, to its present state :-)
 
