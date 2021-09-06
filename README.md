@@ -14,16 +14,16 @@ Our weekly journal club
 
 Date      |Person [1]      |Paper
 ----------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
-2021-09-09|Valeria (1/1)   |[Unknown, sent email]
-2021-09-16|Mathias (1/1)   |[Unknown, sent email]
+2021-09-09|Valeria (1/1)   |[Inclusion of variants discovered from diverse populations improves polygenic risk score transferability](https://doi.org/10.1016/j.xhgg.2020.100017)
+2021-09-16|Mathias (1/1)   |.
 2021-09-23|Richel (1/1)    |[Has GWAS lost its status as a paragon of open science?](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001242) and [presentation](https://github.com/richelbilderbeek/journal_club_20210902)
-2021-09-30|Weronica (1/1)  |[Unknown, sent email]
-2021-10-02|Åsa (3/1)       |.
-2021-10-09|Daniel (2/1)    |.
-2021-10-16|Fatemeh (1/1)   |.
-2021-10-23|Hadrien (1)/1   |.
-2021-10-30|Julia (1/1)     |.
-2021-11-06|Therese (1/1)   |.
+2021-09-30|Weronica (1/1)  |.
+2021-10-02|?Åsa (3/1)      |.
+2021-10-09|?Daniel (2/1)   |.
+2021-10-16|?Fatemeh (1/1)  |.
+2021-10-23|?Hadrien (1)/1  |.
+2021-10-30|?Julia (1/1)    |.
+2021-11-06|?Therese (1/1)  |.
 
  * [1] The numbers behind a person's name means how often he/she has presented
        out of the number of batches he/she was in. For example, (31/4) means
