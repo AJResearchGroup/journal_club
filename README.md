@@ -15,8 +15,8 @@ Our weekly journal club
 Date      |Person [1]      |Paper
 ----------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 2021-09-09|Valeria (1/1)   |[Inclusion of variants discovered from diverse populations improves polygenic risk score transferability](https://doi.org/10.1016/j.xhgg.2020.100017)
-2021-09-16|Mathias (1/1)   |.
-2021-09-23|Richel (1/1)    |[Has GWAS lost its status as a paragon of open science?](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001242) and [presentation](https://github.com/richelbilderbeek/journal_club_20210902)
+2021-09-16|Richel (1/1)    |[Has GWAS lost its status as a paragon of open science?](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001242) and [presentation](https://github.com/richelbilderbeek/journal_club_20210902)
+2021-09-23|Mathias (1/1)   |.
 2021-09-30|Weronica (1/1)  |.
 2021-10-07|Åsa (3/1)       |.
 2021-10-14|?Daniel (2/1)   |.
