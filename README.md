@@ -14,7 +14,6 @@ Our weekly journal club
 
 Date      |Person [1]      |Paper
 ----------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
-2021-09-09|Valeria (1/1)   |[Inclusion of variants discovered from diverse populations improves polygenic risk score transferability](https://doi.org/10.1016/j.xhgg.2020.100017)
 2021-09-16|Richel (1/1)    |[Has GWAS lost its status as a paragon of open science?](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001242) and [presentation](https://github.com/richelbilderbeek/journal_club_20210902)
 2021-09-23|Mathias (1/1)   |.
 2021-09-30|Weronica (1/1)  |.
@@ -24,7 +23,7 @@ Date      |Person [1]      |Paper
 2021-10-28|?Hadrien (1)/1  |.
 2021-11-04|?Julia (1/1)    |.
 2021-11-11|?Therese (1/1)  |.
-2021-11-18|.|.
+2021-11-18|??Emma (1/1)    |.
 
  * [1] The numbers behind a person's name means how often he/she has presented
        out of the number of batches he/she was in. For example, (31/4) means
@@ -66,6 +65,7 @@ That means that every week you can look forward to meet:
 
  * Åsa
  * Daniel
+ * ?Emma
  * Fatemeh
  * Hadrien
  * Julia
@@ -100,6 +100,7 @@ That means that every week you can look forward to presentations from:
  * Hadrien
  * Julia
  * Therese
+ * ?Emma
 
 This order has evolved from a nice alphabetical one, to its present state :-)
 
@@ -164,4 +165,5 @@ Date      |Person [1]      |Paper
 2021-06-24|Åsa (1/0)       |[Day, Felix R., et al. "A robust example of collider bias in a genetic association study." The American Journal of Human Genetics 98.2 (2016): 392-393](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4746366/)
 2021-07-08|Åsa (2/0)       |[Precision medicine in 2030—seven ways to transform healthcare](https://doi.org/10.1016/j.cell.2021.01.015)
 2021-08-26|Torgny (1/1)    |[Investigating the genetic architecture of noncognitive skills using GWAS-by-subtraction](https://www.nature.com/articles/s41588-020-00754-2)
+2021-09-09|Valeria (1/1)   |[Inclusion of variants discovered from diverse populations improves polygenic risk score transferability](https://doi.org/10.1016/j.xhgg.2020.100017)
 
