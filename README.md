@@ -14,12 +14,7 @@ Our weekly journal club
 
 Date      |Person [1]      |Paper
 ----------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
-2021-09-16|Richel (1/1)    |[Has GWAS lost its status as a paragon of open science?](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001242) and [presentation](https://github.com/richelbilderbeek/journal_club_20210916)
-2021-09-23|Mathias (1/1)   |.
-
-Sex differences in genetic architecture in the UK Biobank 
-Elena Bernabeu 1, Oriol Canela-Xandri 2, Konrad Rawlik 1, Andrea Talenti 1, James Prendergast 1 and Albert Tenesa 
-
+2021-09-23|Mathias (1/1)   |[Sex differences in genetic architecture in the UK Biobank](https://doi.org/10.1038/s41588-021-00912-0)
 2021-09-30|Weronica (1/1)  |.
 2021-10-07|Åsa (3/1)       |.
 2021-10-14|Daniel (1/1)    |.
@@ -170,4 +165,5 @@ Date      |Person [1]      |Paper
 2021-07-08|Åsa (2/0)       |[Precision medicine in 2030—seven ways to transform healthcare](https://doi.org/10.1016/j.cell.2021.01.015)
 2021-08-26|Torgny (1/1)    |[Investigating the genetic architecture of noncognitive skills using GWAS-by-subtraction](https://www.nature.com/articles/s41588-020-00754-2)
 2021-09-09|Valeria (1/1)   |[Inclusion of variants discovered from diverse populations improves polygenic risk score transferability](https://doi.org/10.1016/j.xhgg.2020.100017)
+2021-09-16|Richel (1/1)    |[Has GWAS lost its status as a paragon of open science?](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001242) and [presentation](https://github.com/richelbilderbeek/journal_club_20210916)
 
