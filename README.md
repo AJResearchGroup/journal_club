@@ -14,7 +14,7 @@ Our weekly journal club
 
 Date      |Person [1]      |Paper
 ----------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
-2021-09-30|Weronica (1/1)  |Yes
+2021-09-30|Weronica (1/1)  |[Body size and composition and risk of site-specific cancers in the UK Biobank and large international consortia: A mendelian randomisation study](https://doi.org/10.1371/journal.pmed.1003706)
 2021-10-07|Åsa (3/1)       |Yes
 2021-10-14|Daniel (1/1)    |Yes
 2021-10-21|Fatemeh (1/1)   |Yes
