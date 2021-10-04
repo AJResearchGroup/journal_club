@@ -16,12 +16,15 @@ Date      |Person [1]      |Paper
 ----------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 2021-09-30|Weronica (1/1)  |[Body size and composition and risk of site-specific cancers in the UK Biobank and large international consortia: A mendelian randomisation study](https://doi.org/10.1371/journal.pmed.1003706)
 2021-10-07|Åsa (3/1)       |Yes
-2021-10-14|Daniel (1/1)    |Yes
+2021-10-14|?               |.
 2021-10-21|Fatemeh (1/1)   |Yes
 2021-10-28|Hadrien (2/1)   |Yes
 2021-11-04|?Julia (1/1)    |Need to send an email
 2021-11-11|?Therese (1/1)  |Need to send another email
 2021-11-18|??Emma (1/1)    |Need to send an email
+2021-11-25|?Daniel (1/1)   |Need to pick another date
+
+
 
  * [1] The numbers behind a person's name means how often he/she has presented
        out of the number of batches he/she was in. For example, (31/4) means
