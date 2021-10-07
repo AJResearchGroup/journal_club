@@ -6,7 +6,6 @@
 #     - a candidate at approx 75% percentile
 #  - determine the effect
 #
-#
 oestradiol_levels <- tibble::tibble(
   pmol_per_liter = c(
     # 14588 Maximum
@@ -22,6 +21,9 @@ oestradiol_levels <- tibble::tibble(
     # 175 Minimum
   )
 )
+# Note that a median hormonal cycle goes from 80 to 950 pg/mL,
+# which is beyond this range
+
 oestradiol_levels$log_transformed <- log(oestradiol_levels$pmol_per_liter)
 
 ggplot2::ggplot(oestradiol_levels, ggplot2::aes(log_transformed)) +
