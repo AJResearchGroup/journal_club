@@ -14,8 +14,7 @@ Our weekly journal club
 
 Date      |Person [1]      |Paper
 ----------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
-2021-09-30|Weronica (1/1)  |[Body size and composition and risk of site-specific cancers in the UK Biobank and large international consortia: A mendelian randomisation study](https://doi.org/10.1371/journal.pmed.1003706)
-2021-10-07|Åsa (3/1)       |Yes
+2021-10-07|Åsa (3/1)       |[Serum Estradiol and 20 Site-Specific Cancers in Women: Mendelian Randomization Study](https://doi.org/10.1210/clinem/dgab713)
 2021-10-14|?               |.
 2021-10-21|Fatemeh (1/1)   |Yes
 2021-10-28|Hadrien (2/1)   |Yes
@@ -169,4 +168,5 @@ Date      |Person [1]      |Paper
 2021-09-09|Valeria (1/1)   |[Inclusion of variants discovered from diverse populations improves polygenic risk score transferability](https://doi.org/10.1016/j.xhgg.2020.100017)
 2021-09-16|Richel (1/1)    |[Has GWAS lost its status as a paragon of open science?](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001242) and [presentation](https://github.com/richelbilderbeek/journal_club_20210916)
 2021-09-23|Mathias (1/1)   |[Sex differences in genetic architecture in the UK Biobank](https://doi.org/10.1038/s41588-021-00912-0)
+2021-09-30|Weronica (1/1)  |[Body size and composition and risk of site-specific cancers in the UK Biobank and large international consortia: A mendelian randomisation study](https://doi.org/10.1371/journal.pmed.1003706)
 
