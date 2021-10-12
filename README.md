@@ -19,7 +19,7 @@ Date      |Person [1]      |Paper
 2021-10-28|Hadrien (2/1)   |Yes
 2021-11-04|Julia (1/1)     |Yes
 2021-11-11|?Therese (1/1)  |Sent email
-2021-11-18|?Emma (1/1)     |Sent email
+2021-11-18|Emma (1/1)      |Yes
 2021-11-25|?Daniel (1/1)   |Sent email
 
  * [1] The numbers behind a person's name means how often he/she has presented
