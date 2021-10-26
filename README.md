@@ -14,9 +14,7 @@ Our weekly journal club
 
 Date      |Person [1]      |Paper
 ----------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
-2021-10-14|Fatemeh (1/1)   |Yes
-2021-10-21|[none]          |[No paper, due to SBW2021]
-2021-10-28|Hadrien (2/1)   |Yes
+2021-10-28|Hadrien (2/1)   |[Incorporating functional priors improves polygenic prediction accuracy in UK Biobank and 23andMe data sets](https://www.nature.com/articles/s41467-021-25171-9)
 2021-11-04|Julia (1/1)     |Yes
 2021-11-11|[free spot]     |.
 2021-11-18|Emma (1/1)      |Yes
@@ -171,4 +169,6 @@ Date      |Person [1]      |Paper
 2021-09-23|Mathias (1/1)   |[Sex differences in genetic architecture in the UK Biobank](https://doi.org/10.1038/s41588-021-00912-0)
 2021-09-30|Weronica (1/1)  |[Body size and composition and risk of site-specific cancers in the UK Biobank and large international consortia: A mendelian randomisation study](https://doi.org/10.1371/journal.pmed.1003706)
 2021-10-07|Åsa (3/1)       |[Serum Estradiol and 20 Site-Specific Cancers in Women: Mendelian Randomization Study](https://doi.org/10.1210/clinem/dgab713)
+2021-10-14|Fatemeh (1/1)   |[Nobel price for medicine, 2021](https://www.nobelprize.org/uploads/2021/10/press-medicineprize2021.pdf)
+2021-10-21|[none]          |[No paper, due to SBW2021]
 
