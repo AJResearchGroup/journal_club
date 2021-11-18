@@ -14,10 +14,7 @@ Our weekly journal club
 
 Date      |Person [1]      |Paper
 ----------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
-2021-10-28|Hadrien (2/1)   |[Incorporating functional priors improves polygenic prediction accuracy in UK Biobank and 23andMe data sets](https://www.nature.com/articles/s41467-021-25171-9)
-2021-11-04|NA              |No JC, due to holiday
-2021-11-11|NA              |No JC, due to lunch-to-lunch meeting
-2021-11-18|Emma (1/1)      |Yes
+2021-11-18|Emma (1/1)      |[A cross-population atlas of genetic associations for 220 human phenotypes](https://www.nature.com/articles/s41588-021-00931-x)
 2021-11-25|.               |.
 2021-12-02|Daniel (1/1)    |Yes
 2021-12-09|Therese (1/1)   |Yes
@@ -34,7 +31,6 @@ Date      |Person [1]      |Paper
 ----------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 2021-10-07|Mathias          |.
 2021-10-14|Richel         |.
-2021-10-21|Therese          |.
 2021-10-28|Torgny        |.
 2021-11-04|Weronica             |.
 2021-11-11|Åsa          |.
@@ -43,6 +39,7 @@ Date      |Person [1]      |Paper
 2021-12-02|Hadrien           |.
 2021-12-09|Julia         |.
 2021-12-16|Valeria         |.
+2021-10-21|Therese          |.
 
 ## Timetable
 
@@ -63,7 +60,7 @@ That means that every week you can look forward to meet:
 
  * Åsa
  * Daniel
- * ?Emma
+ * Emma
  * Fatemeh
  * Hadrien
  * Julia
@@ -98,7 +95,7 @@ That means that every week you can look forward to presentations from:
  * Hadrien
  * Julia
  * Therese
- * ?Emma
+ * Emma
 
 This order has evolved from a nice alphabetical one, to its present state :-)
 
@@ -170,4 +167,7 @@ Date      |Person [1]      |Paper
 2021-10-07|Åsa (3/1)       |[Serum Estradiol and 20 Site-Specific Cancers in Women: Mendelian Randomization Study](https://doi.org/10.1210/clinem/dgab713)
 2021-10-14|Fatemeh (1/1)   |[Nobel price for medicine, 2021](https://www.nobelprize.org/uploads/2021/10/press-medicineprize2021.pdf)
 2021-10-21|[none]          |[No paper, due to SBW2021]
+2021-10-28|Hadrien (2/1)   |[Incorporating functional priors improves polygenic prediction accuracy in UK Biobank and 23andMe data sets](https://www.nature.com/articles/s41467-021-25171-9)
+2021-11-04|NA              |No JC, due to holiday
+2021-11-11|NA              |No JC, due to lunch-to-lunch meeting
 
