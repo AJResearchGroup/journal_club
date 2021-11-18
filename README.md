@@ -15,7 +15,7 @@ Our weekly journal club
 Date      |Person [1]      |Paper
 ----------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 2021-11-18|Emma (1/1)      |[A cross-population atlas of genetic associations for 220 human phenotypes](https://www.nature.com/articles/s41588-021-00931-x)
-2021-11-25|.               |.
+2021-11-25|Emma (2/1)      |[Sequencing of 640,000 exomes identifies GPR75 variants associated with protection from obesity](https://pubmed.ncbi.nlm.nih.gov/34210852/)
 2021-12-02|Daniel (1/1)    |Yes
 2021-12-09|Therese (1/1)   |Yes
 2021-12-16|.               |.
