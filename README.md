@@ -17,29 +17,41 @@ Date      |Person [1]      |Paper
 2021-11-18|Emma (1/1)      |[A cross-population atlas of genetic associations for 220 human phenotypes](https://www.nature.com/articles/s41588-021-00931-x)
 2021-11-25|Emma (2/1)      |[Sequencing of 640,000 exomes identifies GPR75 variants associated with protection from obesity](https://pubmed.ncbi.nlm.nih.gov/34210852/)
 2021-12-02|Daniel (1/1)    |Yes
-2021-12-09|Therese (1/1)   |Yes
-2021-12-16|.               |.
+2021-12-09|Valeria (2/2)   |Yes
+2021-12-16|~~Richel~~      |Cancelled due to illness
+2021-12-23|.               |Christmas
+2021-12-30|.               |Christmas
+2022-01-06|.               |Christmas
+2022-01-13|Torgny (2/2)    |Yes
+2022-01-20|Richel (2/2)    |[here](https://www.biorxiv.org/content/10.1101/2020.09.30.320994v2)
+2022-01-27|Therese (1/2)   |Yes
+2022-02-03|.               |No presenter
+2022-02-10|Weronica (2/2)  |Yes
+2022-02-17|Mathias (2/2)   |Yes
+2022-02-24|.               |Holiday
+2022-03-03|Fatemeh (2/2)   |Yes
+2022-03-10|Daniel (2/2)    |Yes
+2022-03-17|?Åsa (4/3)      |.
+2022-03-24|?Valeria (3/3)  |.
+2022-03-31|?Therese (2/3)  |.
+2022-04-07|?Torgny (3/3)   |.
+2022-04-14|?Richel (3/3)   |.
+2022-04-21|?Weronica (3/3) |.
+2022-04-28|?Mathias (3/3)  |.
+2022-05-05|?Fatemeh (3/3)  |.
+2022-05-12|?Daniel (3/3)   |.
+2022-05-19|?Therese (3/3)  |.
+2022-05-26|.               |Red day
+2022-06-02|                |.
+2022-05-09|.               |.
+2022-05-16|.               |.
+2022-05-23|.               |.
+2022-05-30|.               |.
 
  * [1] The numbers behind a person's name means how often he/she has presented
        out of the number of batches he/she was in. For example, (31/4) means
        that after that meeting, that person has presented 31 JCs, while having
        been the fourth batch
-
-### Batch 2
-
-Date      |Person [1]      |Paper
-----------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
-2021-10-07|Mathias          |.
-2021-10-14|Richel         |.
-2021-10-28|Torgny        |.
-2021-11-04|Weronica             |.
-2021-11-11|Åsa          |.
-2021-11-18|Daniel         |.
-2021-11-25|Fatemeh         |.
-2021-12-02|Hadrien           |.
-2021-12-09|Julia         |.
-2021-12-16|Valeria         |.
-2021-10-21|Therese          |.
 
 ## Timetable
 
@@ -56,13 +68,10 @@ When |What
 
 Yes. 
 
-That means that every week you can look forward to meet:
+That means that every week you can look forward to meet (in alphabetic order):
 
- * Åsa
  * Daniel
- * Emma
  * Fatemeh
- * Hadrien
  * Julia
  * Mathias
  * Richel
@@ -70,6 +79,7 @@ That means that every week you can look forward to meet:
  * Torgny
  * Valeria
  * Weronica
+ * Åsa
 
 Others are welcome to join as well :-)
 
@@ -92,10 +102,7 @@ That means that every week you can look forward to presentations from:
  * Åsa
  * Daniel
  * Fatemeh
- * Hadrien
- * Julia
  * Therese
- * Emma
 
 This order has evolved from a nice alphabetical one, to its present state :-)
 
