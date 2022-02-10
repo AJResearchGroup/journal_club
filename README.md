@@ -32,7 +32,7 @@ Date      |Person [1]      |Paper
 2022-03-03|Fatemeh (2/2)   |Yes
 2022-03-10|Daniel (2/2)    |Yes
 2022-03-17|Åsa (4/3)       |Yes
-2022-03-24|?Valeria (3/3)  |[sent email]
+2022-03-24|Valeria (3/3)   |Yes
 2022-03-31|Therese (2/3)   |Yes
 2022-04-07|Torgny (3/3)    |Yes
 2022-04-14|?Richel (3/3)   |[I am flexible]
