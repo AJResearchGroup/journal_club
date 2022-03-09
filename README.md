@@ -158,6 +158,9 @@ Date      |Person [1]      |Paper
 202?-??-??|?Richel         |A deep learning framework for characterization of genotype data
 202?-??-??|?Richel         |[“I know it's bad but I have been pressured into it”: Questionable research practices among psychology students in Canada](https://psyarxiv.com/kjby3/)
 202?-??-??|?Richel         |[Ten simple rules to improve academic work–life balance](https://doi.org/10.1371/journal.pcbi.1009124)
+202?-??-??|?Richel         |[The broken promise that undermines human genome research](https://www.nature.com/articles/d41586-021-00331-5)
+202?-??-??|?Richel         |[On Sharing Quantitative Trait GWAS Results in an Era of Multiple-omics Data and the Limits of Genomic Privacy](https://www.sciencedirect.com/science/article/pii/S0002929712000936)
+
 
 ## Past meetings
 
