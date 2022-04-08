@@ -35,14 +35,14 @@ Date      |Person [1]      |Paper
 2022-03-24|Valeria (3/3)   |Yes
 2022-03-31|Therese (2/3)   |Yes
 2022-04-07|Torgny (3/3)    |Yes
-2022-04-14|?Richel (3/3)   |[I am flexible]
-2022-04-21|?Weronica (3/3) |.
-2022-04-28|?Mathias (3/3)  |.
-2022-05-05|?Fatemeh (3/3)  |.
-2022-05-12|?Daniel (3/3)   |.
+2022-04-14|.               |Easter
+2022-04-21|Mathias (3/3)   |Yes
+2022-04-28|Fatemeh (3/3)   |Yes
+2022-05-05|Daniel (3/3)    |Yes
+2022-05-12|Weronica (3/3)  |Yes
 2022-05-19|Therese (3/3)   |Yes
 2022-05-26|.               |Red day
-2022-06-02|                |.
+2022-06-02|?Richel (3/3)   |[I am flexible]
 2022-05-09|.               |.
 2022-05-16|.               |.
 2022-05-23|.               |.
