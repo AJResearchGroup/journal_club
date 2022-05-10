@@ -32,20 +32,21 @@ Date      |Person [1]       |Paper
 Date      |Person [1]       |Paper
 ----------|-----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 2022-06-09|?Asa (5/4)        |.
-2022-06-16|?Valeria (4/4)    |.
-2022-06-23|?Torgny (4/4)     |.
-2022-06-30|?Mathias (4/4)    |.
+2022-06-16|~~Valeria~~ (4/4) ?Mathias |.
+2022-06-23|Torgny (4/4)     |.
+2022-06-30|?Mathias (4/4), ?Valeria   |.
 2022-07-07|No JC            |Due to holiday
 2022-07-14|No JC            |Due to holiday
 2022-07-21|No JC            |Due to holiday
 2022-07-28|No JC            |Due to holiday
 2022-08-04|No JC            |Due to holiday
 2022-08-11|No JC            |Due to holiday
-2022-08-18|?Fatemeh (4/4)    |.
-2022-08-25|?Daniel (4/4)     |.
-2022-09-01|?Weronica (4/4)   |.
-2022-09-08|?Therese (4/4)    |.
-2022-09-15|?Richel (4/4)     |.
+2022-08-18|?No JC ~~Fatemeh~~ (4/4) |?Due to Iceland conference
+2022-08-25|?~~Daniel~~ (4/4) |.
+2022-09-01|Fatemeh           |.
+2022-09-08|?Therese (4/4)    |?Daniel
+2022-09-15|?Richel (4/4)     |?Daniel
+?Weronica (4/4)
 
  * [1] The numbers behind a person's name means how often he/she has presented
        out of the number of batches he/she was in. For example, (31/4) means
