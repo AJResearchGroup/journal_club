@@ -4,9 +4,8 @@
 
 Our weekly journal club
 
- * When: every Thursday 9:00 to max 10:00 at the Digitölfika Zoom room:
-   * URL: https://uu-se.zoom.us/j/7093465705
-   * Passcode: beer (the Dutch word for a bear)
+ * When: every Thursday 9:00 to max 10:00
+ * Where: https://uu-se.zoom.us/j/7093465705
 
 ## Future meetings
 
