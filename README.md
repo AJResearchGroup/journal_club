@@ -15,8 +15,7 @@ Date      |Person [1]       |Paper
 ----------|-----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 2022-05-19|Therese (3/3)    |Yes
 2022-05-26|.                |Red day
-2022-06-02|Richel (3/3), Åsa|Yes
-
+2022-06-02|Richel (3/3), Åsa|?[Scientific Utopia: II. Restructuring Incentives and Practices to Promote Truth Over Publishability ](https://journals.sagepub.com/doi/full/10.1177/1745691612459058)
 ## Batch 4
 
 Date      |Person [1]       |Paper
