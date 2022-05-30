@@ -15,7 +15,7 @@ Date      |Person [1]       |Paper
 ----------|-----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
 2022-05-19|Therese (3/3)    |Yes
 2022-05-26|.                |Red day
-2022-06-02|Richel (3/3), Åsa|?[Scientific Utopia: II. Restructuring Incentives and Practices to Promote Truth Over Publishability ](https://journals.sagepub.com/doi/full/10.1177/1745691612459058) ?[Peng, Roger D., and Stephanie C. Hicks. "Reproducible research: A retrospective." Annual review of public health 42 (2021): 79-93.](https://www.annualreviews.org/doi/abs/10.1146/annurev-publhealth-012420-105110)
+2022-06-02|Richel (3/3), Åsa|[Peng, Roger D., and Stephanie C. Hicks. "Reproducible research: A retrospective." Annual review of public health 42 (2021): 79-93.](https://www.annualreviews.org/doi/abs/10.1146/annurev-publhealth-012420-105110)
 
 
 
@@ -156,6 +156,7 @@ Date      |Person [1]      |Paper
 202?-??-??|?Richel         |[On Sharing Quantitative Trait GWAS Results in an Era of Multiple-omics Data and the Limits of Genomic Privacy](https://www.sciencedirect.com/science/article/pii/S0002929712000936)
 202?-??-??|?Richel         |[Ecarnot, F., et al. "Writing a scientific article: A step-by-step guide for beginners." European Geriatric Medicine 6.6 (2015): 573-579](https://www.sciencedirect.com/science/article/abs/pii/S1878764915001606?via%3Dihub) (tip from Weronica)
 202?-??-??|?Richel         |[MR tool by Adriaan](https://github.com/adriaan-vd-graaf/genome_integration)
+202?-??-??|?Richel         |[Scientific Utopia: II. Restructuring Incentives and Practices to Promote Truth Over Publishability ](https://journals.sagepub.com/doi/full/10.1177/1745691612459058)
 
 ## Past meetings
 
