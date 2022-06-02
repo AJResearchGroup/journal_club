@@ -54,7 +54,6 @@ That means that every week you can look forward to meet (in alphabetic order):
 
  * Daniel
  * Fatemeh
- * Julia
  * Mathias
  * Richel
  * Therese
