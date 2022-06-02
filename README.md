@@ -9,23 +9,11 @@ Our weekly journal club
 
 ## Future meetings
 
-### Batch 3
+### Batch 4
 
 Date      |Person [1]       |Paper
 ----------|-----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
-2022-05-19|Therese (3/3)    |Yes
-2022-05-26|.                |Red day
-2022-06-02|Richel (3/3), Åsa|[Peng, Roger D., and Stephanie C. Hicks. "Reproducible research: A retrospective." Annual review of public health 42 (2021): 79-93.](https://www.annualreviews.org/doi/abs/10.1146/annurev-publhealth-012420-105110)
-
-
-
-
-
-## Batch 4
-
-Date      |Person [1]       |Paper
-----------|-----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------
-2022-06-09|?Asa (5/4)       |.
+2022-06-09|Asa (5/4)        |Yes
 2022-06-16|~~Valeria~~ Mathias (4/4)|.
 2022-06-23|Torgny (4/4)     |.
 2022-06-30|Valeria (4/4)    |.
@@ -214,4 +202,7 @@ Date      |Person [1]       |Paper
 2022-04-28|Fatemeh (3/3)    |Yes
 2022-05-05|Daniel (3/3)     |Yes
 2022-05-12|Weronica (3/3)   |Yes
+2022-05-19|Therese (3/3)    |Yes
+2022-05-26|.                |Red day
+2022-06-02|Richel (3/3)    |[Peng, Roger D., and Stephanie C. Hicks. "Reproducible research: A retrospective." Annual review of public health 42 (2021): 79-93.](https://www.annualreviews.org/doi/abs/10.1146/annurev-publhealth-012420-105110) [Evaluation](evaluation_20220602.odt)
 
