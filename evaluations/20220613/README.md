@@ -13,13 +13,38 @@ The majority wants:
 
 ## Results
 
+These results are from cropped screenshots from Polly.
+
+### Question 1
+
 ![](1.png)
+
+### Question 2
+
 ![](2.png)
+
+### Question 3
+
 ![](3.png)
+
+### Question 4
+
 ![](4.png)
+
+### Question 5
+
 ![](5.png)
+
+### Question 6
+
 ![](6.png)
+
+### Question 7
+
 ![](7.png)
+
+### Question 8
+
 ![](8.png)
 
 ### Question 9
